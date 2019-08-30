@@ -1,0 +1,17 @@
+{
+    "name": "bases-node",
+    "version": "2.0.0",
+    "description": "Aplicación de línea de comando",
+    "main": "appMultiplicarYargs.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "mcom",
+    "license": "ISC",
+    "dependencies": {
+        "yargs": "^14.0.0"
+    },
+    "devDependencies": {
+        "nodemon": "^1.19.1"
+    }
+}
