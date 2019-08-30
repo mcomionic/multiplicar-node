@@ -1,0 +1,1 @@
+## Ejercicio sencillo del curso de node para generar tablas de multiplicar
